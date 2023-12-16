@@ -93,7 +93,7 @@ img {
   transition-property: color;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-delay: 0;
+  transition-delay: 0ms;
 }
 
 .header-menu-link.current::after {
@@ -137,7 +137,7 @@ img {
   transition-property: color;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-delay: 0;
+  transition-delay: 0ms;
 }
 
 /* Hero container */
@@ -186,7 +186,7 @@ img {
   transition-property: background-color;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-delay: 0;
+  transition-delay: 0ms;
 }
 
 .hero-button:hover,
@@ -234,9 +234,6 @@ img {
   background-color: #f4f4fd;
   padding: 24px 100px;
   margin-bottom: 8px;
-}
-
-.features-icon {
 }
 
 .features-small-title {
@@ -344,7 +341,7 @@ img {
   transition-property: background-color;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-delay: 0;
+  transition-delay: 0ms;
 }
 
 .socials-link:hover,
@@ -526,7 +523,7 @@ img {
   transition-property: background-color;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-delay: 0;
+  transition-delay: 0ms;
 }
 
 .footer-socials-link:hover,
